@@ -6,7 +6,7 @@
 <!-- INTRO -->
   <h3 align="left">¡Hola mundo!</h3>
 
-  <p align="center"><em>
+  <p align="left"><em>
     Soy Débora, una entusiasta desarrolladora full stack con mucho amor por la creación de experiencias digitales excepcionales.
       <br />
     Mis conocimientos abarcan desde la construcción de interfaces dinámicas con React.js hasta el diseño y desarrollo de APIS sólidas con Node.js y Express, añadiendo un toque de tipado seguro con TypeScript.
