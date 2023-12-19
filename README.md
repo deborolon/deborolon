@@ -1,10 +1,10 @@
 <!-- LOGO -->
 <br />
 <div align="center">
-    <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Logo" width="30%" height="auto">
+    <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Logo" width="30%" height="auto">
     
 <!-- INTRO -->
-  <h1 align="center">¡Hola mundo!</h1>
+  <h3 align="left">¡Hola mundo!</h3>
 
   <p align="center"><em>
     Soy Débora, una entusiasta desarrolladora full stack con mucho amor por la creación de experiencias digitales excepcionales.
@@ -18,14 +18,14 @@
 ##
 
 <!-- STACK -->
-### Tecnologías  <img src="https://www.sourabhgupta.com/index.aspx/images/online_images/output_jXjlXs.gif" alt="Logo" width="3%" height="auto">
+#### Tecnologías  <img src="https://www.sourabhgupta.com/index.aspx/images/online_images/output_jXjlXs.gif" alt="Logo" width="3%" height="auto">
     
 ![React] ![Redux] ![Javascript] ![HTML] ![CSS] ![Sass] ![Tailwindcss] ![Bootstrap] ![Node] ![Express] ![Socketio] ![Typescript] ![Graphql] ![Apollographql] ![Mongodb] ![Mongoose] ![Mysql] ![Sequelize] ![Mocha] ![Chai] ![Cypress] ![Docker] ![Gitlab] ![Bitbucket]
 
 ##
 
 <!-- CONTACTO -->
-### Contacto <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVpYTRwc3AzdzBjNWt5Z2l4aHUwZ3ljdHN6dnR4MmN3ODk2dGk2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/alPfPoWTIlXeIyWJXY/giphy.gif" alt="Logo" width="5%" height="auto">
+#### Contacto <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVpYTRwc3AzdzBjNWt5Z2l4aHUwZ3ljdHN6dnR4MmN3ODk2dGk2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/alPfPoWTIlXeIyWJXY/giphy.gif" alt="Logo" width="5%" height="auto">
 
  [![Gmail][Gmail]][Gmail-url] [![LinkedIn][linkedin-shield]][linkedin-url] 
 
